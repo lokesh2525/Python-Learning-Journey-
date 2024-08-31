@@ -91,12 +91,6 @@ Here are some of the resources I've been using to learn Python:
   - String methods: `join` and `format`
   - Functional programming: `map`, `filter`, and `reduce`
 
-## Projects
-- **Mega Project 1: Jarvis Virtual Assistant**
-  - A voice assistant application capable of performing various tasks such as playing music, and providing information.
-- **Mega Project 2: AI AutoReply Bot**
-  - An AI-based bot designed to automatically reply to messages, enhancing communication efficiency.
-
 ## How to Use This Repository
 Feel free to explore the code and notes in this repository. Each folder corresponds to a specific topic or project. You can clone this repository and run the Python scripts on your local machine.
 
